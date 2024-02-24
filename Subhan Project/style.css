@@ -1,0 +1,105 @@
+.navbar{
+    background-color: steelblue;
+}
+
+#pencil{
+    background:url(Images/Pencil.jpg) ;
+    height: 900px;
+}
+
+.pencildiv{
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+.pencilh1{
+    font-size: 600%;
+    font-weight: 700;
+}
+
+.pencilh2{
+    font-size: 200%;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.pencilbutton{
+    width: 200px;
+    height: 60px;;
+    background-color: rgb(24, 140, 207);
+    color: aliceblue;
+    border: none;
+    border-radius: 5%;
+}
+
+.about{
+    background-color: aliceblue;
+    height: 455px;
+}
+
+.aboutdecoration{
+    text-align: center;
+}
+
+.a{
+   padding-top: 7rem;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.b{
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.aboutbutton{
+    margin-top: 20px;
+    width: 200px;
+    height: 60px;;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 5%;
+}
+
+.services{
+    background-color: rgb(24, 140, 207);
+    height: 500px;
+}
+
+.c{
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    color: goldenrod;
+}
+
+.d{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+
+.download{
+    background: url(Images/seccisors.jpg);
+    height: 700px;
+    text-align: center;
+}
+
+.e{
+   padding-top: 250px;
+    font-size: 60px;
+    font-weight: 400px;
+}
+.downloadnow{
+    width: 200px;
+    height: 60px;;
+    background-color: rgb(24, 140, 207);
+    color: aliceblue;
+    border: none;
+    border-radius: 5%;
+}
